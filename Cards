@@ -1,0 +1,184 @@
+{
+  "cards": [
+    {
+      "id": "Card 1",
+      "name": "Sam Golbach 1",
+      "rarity": "Common", 
+      "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242538598179096/IMG_6243.png?ex=6ae7d488&is=6ae68308&hm=c06a83888c1498b0d6cb99aca6c1bf67217956097472ac84901e235b7c29a780&"
+    },
+    {
+    "id": "Card 2",
+    "name": "Sam Golbach 2",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242599801454765/IMG_6244.png?ex=6ae7d497&is=6ae68317&hm=f73371979ca8d86545229b5150783584fed91c46052ca1fe10e1b1c05c1e344b&"
+    },
+    {
+    "id": "Card 3",
+    "name": "Sam Golbach 3",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242618286018680/IMG_6245.png?ex=6ae7d49b&is=6ae6831b&hm=cf4006c5acb12311714eec690900af60ecd9f20c5da5bf72282dea2fde5fa774&"
+    },
+    {
+    "id": "Card 4",
+    "name": "Sam Golbach 4",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242621913825442/IMG_6246.png?ex=6ae7d49c&is=6ae6831c&hm=7adb1104465ae0628670492f430c757729049da79dcec881b8cc88da7813142b&"
+    },
+    {
+    "id": "Card 5",
+    "name": "Sam Golbach 5",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242624942383184/IMG_6247.png?ex=6ae7d49d&is=6ae6831d&hm=6f9f0e76c60547b7b4ba58cf1b1831cfae3b5e105f781dfe38118f832194cf9d&"
+    },
+    {
+    "id": "Card 6",
+    "name": "Sam Golbach 6",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242627228012666/IMG_6248.png?ex=6ae7d49d&is=6ae6831d&hm=78d83bc1c88a283255c544f6cd49fb702a5931f183e1a557c1bc8c9620946b2d&"
+    },
+    {
+    "id": "Card 7",
+    "name": "Sam Golbach 7",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242630155767969/IMG_6249.png?ex=6ae7d49e&is=6ae6831e&hm=b2df943da5715dae7bffba171141f975777ab1e16c4d0b93c90469bf97afd8f1&"
+    },
+    {
+    "id": "Card 8",
+    "name": "Sam Golbach 8",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242632911552652/IMG_6250.png?ex=6ae7d49f&is=6ae6831f&hm=3465135f3a48df7d0a00ae318528c87948f4881d0c3ce39fb861101c2d5d86a8&"
+    },
+    {
+    "id": "Card 9",
+    "name": "Sam Golbach 9",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242642667503639/IMG_6251.png?ex=6ae7d4a1&is=6ae68321&hm=601c8a20a5157ccae1bd836058c74e91b5aee788f351be6cfd8d8f76f014573a&"
+    },
+    {
+    "id": "Card 10",
+    "name": "Sam Golbach 10",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242653484482661/IMG_6252.png?ex=6ae7d4a3&is=6ae68323&hm=a453bb02f54ee4c7fb3c1e545df85e7555f7744de972465eb56b13e8cf1a5f9d&"
+    },
+    {
+    "id": "Card 11",
+    "name": "Sam Golbach 11",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242656055726080/IMG_6253.png?ex=6ae7d4a4&is=6ae68324&hm=8a93801abd931a8c813ba55ae0c38ed5bc522eb34578e75fb4ee721d45c9da0e&"
+    },
+    {
+    "id": "Card 12",
+    "name": "Sam Golbach 12",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242659633340436/IMG_6254.png?ex=6ae7d4a5&is=6ae68325&hm=9e3edaabe026b36eff23a0ee70de2351988ca31eee0756c14d45f736242f53ed&"
+    },
+    {
+    "id": "Card 13",
+    "name": "Sam Golbach 13",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242661487091732/IMG_6255.png?ex=6ae7d4a5&is=6ae68325&hm=3acda40ce04b6bb0e6ef327b5167645f198efea2468617ae8baa7fb363ca08b4&"
+    },
+    {
+    "id": "Card 14",
+    "name": "Sam Golbach 14",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242663752274003/IMG_6258.png?ex=6ae7d4a6&is=6ae68326&hm=77a2dddcb8b5145aa4a8bf915109b0e3b1e9c669c8c6bf554664892e73067fed&"
+    },
+    {
+    "id": "Card 15",
+    "name": "Sam Golbach 15",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242665862004917/IMG_6259.png?ex=6ae7d4a6&is=6ae68326&hm=f2deac1ba9783aab67cd875b67aa04c3ae1602f1422d92e055ce61330a84f186"
+    },
+    {
+    "id": "Card 16",
+    "name": "Sam Golbach 16",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242671142506537/IMG_6260.png?ex=6ae7d4a8&is=6ae68328&hm=44f5341976da201d05dfb1ce7b41c4b8434bb41fdf529f3f422d14b9a92e2d73&"
+    },
+    {
+    "id": "Card 17",
+    "name": "Sam Golbach 17",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242681364152320/IMG_6261.png?ex=6ae7d4aa&is=6ae6832a&hm=f6e43f49ce3054290da517dcb6e70d94910de47e1d6414a654e553501b89bbc4&"
+    },
+    {
+    "id": "Card 18",
+    "name": "Sam Golbach 18",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242690163675157/IMG_6262.png?ex=6ae7d4ac&is=6ae6832c&hm=30be873509dec44406d279b2f829ed4de38c9afeaacaaefb335982264b8cc42d&"
+    },
+    {
+    "id": "Card 19",
+    "name": "Sam Golbach 19",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242693372190801/IMG_6263.png?ex=6ae7d4ad&is=6ae6832d&hm=8a2a53bcb60c17a7f4c6d033bac652d826de9709e28e7582ebcce1f4653bfe50&"
+    },
+    {
+    "id": "Card 20",
+    "name": "Sam Golbach 20",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242695859409058/IMG_6265.png?ex=6ae7d4ae&is=6ae6832e&hm=77f4d56f60360980fb1a08a805d63bcd3b2832debdc047c940282d5ea4394d09"
+    },
+    {
+    "id": "Card 21",
+    "name": "Sam Golbach 21",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242699798118540/IMG_6266.png?ex=6ae7d4af&is=6ae6832f&hm=a69f17749b0dee789fddbe197a64ac493b726515c5e6ba8c9e61c819a7fcf517&"
+    },
+    {
+    "id": "Card 22",
+    "name": "Sam Golbach 22",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242705590456483/IMG_6267.png?ex=6ae7d4b0&is=6ae68330&hm=c7a17a77bb913eb6e752e205cd56e8a69ee9e2985dbc2133669e8e88f5bca9c3&"
+    },
+    {
+    "id": "Card 23",
+    "name": "Sam Golbach 23",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242708719149197/IMG_6269.png?ex=6ae7d4b1&is=6ae68331&hm=25acd0bb0e3abcc70763357a03ebea612b84c108671ffe452ba388cb23cbff7c&"
+    },
+    {
+    "id": "Card 24",
+    "name": "Sam Golbach 24",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242722174603304/IMG_6270.png?ex=6ae7d4b4&is=6ae68334&hm=033d0b310e47dee5dbc5185a769983afe5cc16f590169c1ee45c8fc89e0687b9&"
+    },
+    {
+    "id": "Card 25",
+    "name": "Sam Golbach 25",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242727090458675/IMG_6271.png?ex=6ae7d4b5&is=6ae68335&hm=2945774832048b9bc69377e798d622690072802a07c421c2900e11822fbfe8f9&"
+    },
+    {
+    "id": "Card 26", 
+    "name": "Sam Golbach 26",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242731662123008/IMG_6272.png?ex=6ae7d4b6&is=6ae68336&hm=78248fa6f82271444b1dafd7a4683d7e9f321993f4077fa2a81eb3ce0a0ea07e&"
+    },
+    {
+    "id": "Card 27",
+    "name": "Sam Golbach 27",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242735021625404/IMG_6273.png?ex=6ae7d4b7&is=6ae68337&hm=7a84b50f2b4e6b83196659c939689065e14822286d915039c3af97985b03a6d6&"
+    },
+    {
+    "id": "Card 28",
+    "name": "Sam Golbach 28",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242738406563892/IMG_6275.png?ex=6ae7d4b8&is=6ae68338&hm=2cf6976aae00fa814820cf937fe639daaa133f3f6d15552fc9192addd227723f&"
+    },
+    {
+    "id": "Card 29",
+    "name": "Sam Golbach 29",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242791548518410/IMG_6276.png?ex=6ae7d4c4&is=6ae68344&hm=0be7c7b9460b595c8a0734b262b6fc3708e72898fc0902f49f8d8ba7bcbcd968&"
+    },
+    {
+    "id": "Card 30",
+    "name": "Sam Golbach 30",
+    "rarity": "Common",
+    "image": "https://cdn.discordapp.com/attachments/1566197714381836420/1566242801232904212/IMG_6278.png?ex=6ae7d4c7&is=6ae68347&hm=09193eb458b611a07ad6155e8af3865b1524101aaaa24b420343a34f5f3069e9&"
+    }
+  ]
+}
